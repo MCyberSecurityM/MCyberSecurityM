@@ -1,12 +1,10 @@
-# Hello, I'm CHANGEME
+# Hello, I'm Michael
 <a href="https://linkedin.com/in/cybermmmichael"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
 
 I am a cybersecurity enthusiast pursuing a bachelor's degree in cybersecurity at the University of Phoenix, set to graduate in May 2025. My primary focus is on penetration testing, where I utilize tools like Kali Linux and Nmap to identify and address vulnerabilities. Driven by a passion for continuous learning, I engage with platforms like LetsDefend and Hack The Box to stay current with evolving security threats.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
 To apply my skills and knowledge in cybersecurity to contribute effectively to the protection of digital environments. I aim to leverage my expertise in penetration testing and vulnerability assessment to enhance organizational security and advance in the field of cybersecurity.
 
