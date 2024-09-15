@@ -44,7 +44,6 @@ To apply my skills and knowledge in cybersecurity to contribute effectively to t
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Google_Cybersecurity_Certification-4285F4?&style=for-the-badge&logo=google&logoColor=white" />
