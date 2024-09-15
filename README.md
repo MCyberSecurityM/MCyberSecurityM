@@ -12,12 +12,12 @@ To apply my skills and knowledge in cybersecurity to contribute effectively to t
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Network Scanning and Enumeration          | <a href="https://drive.google.com/file/d/1-BJvZa_jdaazQMXfWQl7pZ7mO5-4dBFC/view?usp=drive_link">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Network Scanning and Enumeration          | <a href="https://drive.google.com/file/d/1-BJvZa_jdaazQMXfWQl7pZ7mO5-4dBFC/view?usp=drive_link">Network Scanning and Enumeration Lab</a>|
+|  | <a href="https://google.com">Detection Lab</a>|
+|          ||
+|      | |
+|                  | |
+|  | |
 
 ## Tools
 
