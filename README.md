@@ -9,7 +9,6 @@ I am a cybersecurity enthusiast pursuing a bachelor's degree in cybersecurity at
 To apply my skills and knowledge in cybersecurity to contribute effectively to the protection of digital environments. I aim to leverage my expertise in penetration testing and vulnerability assessment to enhance organizational security and advance in the field of cybersecurity.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
