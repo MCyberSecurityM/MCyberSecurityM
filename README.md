@@ -15,7 +15,7 @@ To apply my skills and knowledge in cybersecurity to contribute effectively to t
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| SIEM Implementation and Log Analysis          | <a href="https://drive.google.com/file/d/1FOYgaKpWAvJjkj_g_331YBhGD5ASmezg/view?usp=drive_link">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
