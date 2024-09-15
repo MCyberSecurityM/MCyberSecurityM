@@ -52,19 +52,7 @@ To apply my skills and knowledge in cybersecurity to contribute effectively to t
 
 ## Projects
 - Wifi Pineapple Mark 7: The WiFi Pineapple is a versatile tool designed for performing advanced network attacks and security assessments. It is used for penetration testing and network auditing.
-      <div>      -Man-in-the-Middle Attacks: Intercept and analyze traffic between clients and access points.
-      <div>      -Evil Twin Attacks: Create a fake access point to lure users and capture their credentials.
-      <div>      -Network Discovery: Identify and enumerate devices on a network.
-      <div>      -Data Capture: Collect data from connected devices and analyze network traffic.
-      <div>      -Vulnerability Testing: Test network security by simulating attacks and identifying weaknesses.
-
+    
 - FlipperZero: The Flipper Zero is a multi-tool device for pentesters and hackers, offering a variety of features for physical and wireless attacks. It is designed for hacking and exploring wireless protocols and RFID/NFC systems.
-        <div>    -RFID/NFC Cloning: Read and emulate RFID/NFC cards and tags.
-        <div>    -Radio Frequency (RF) Analysis: Interact with various RF protocols (e.g., garage door openers, remote controls).
-        <div>    -Bluetooth Hacking: Analyze and interact with Bluetooth devices.
-        <div>    -Signal Analysis: Capture and analyze signals from various sources.
-
+     
 - USB Rubber Ducky: The USB Rubber Ducky is a keystroke injection tool that emulates keyboard inputs to automate tasks and execute payloads on a target machine. It is often used for social engineering and physical penetration testing.
-        <div>    -Automated Attacks: Execute scripts and commands on a target machine through keyboard emulation.
-        <div>    -Credential Harvesting: Automatically input commands to extract passwords or other sensitive information.
-        <div>    -System Exploitation: Deploy payloads to exploit vulnerabilities in target systems.
