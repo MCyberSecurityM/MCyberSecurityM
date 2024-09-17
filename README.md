@@ -27,6 +27,7 @@ To apply my skills and knowledge in cybersecurity to contribute effectively to t
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
 <img src="https://img.shields.io/badge/-Nmap-00B2A9?&style=for-the-badge&logo=nmap&logoColor=white" />    
     <img src="https://img.shields.io/badge/-Netcat-000000?&style=for-the-badge&logo=netcat&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=python&logoColor=white" />
 </div>
 
 ### Endpoint
