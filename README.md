@@ -57,3 +57,5 @@ To apply my skills and knowledge in cybersecurity to contribute effectively to t
 - FlipperZero: The Flipper Zero is a multi-tool device for pentesters and hackers, offering a variety of features for physical and wireless attacks. It is designed for hacking and exploring wireless protocols and RFID/NFC systems.
      
 - USB Rubber Ducky: The USB Rubber Ducky is a keystroke injection tool that emulates keyboard inputs to automate tasks and execute payloads on a target machine. It is often used for social engineering and physical penetration testing.
+- <a href="https://drive.google.com/file/d/1-BJvZa_jdaazQMXfWQl7pZ7mO5-4dBFC/view?usp=drive_link">Network Scanning and Enumeration Lab</a>
+- <a href="https://drive.google.com/file/d/1pwoOitX0C4B2YlPezQU90iLjvxUsKtB4/view?usp=drive_link">Port Scanning</a>
