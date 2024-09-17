@@ -13,7 +13,7 @@ To apply my skills and knowledge in cybersecurity to contribute effectively to t
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Network Scanning and Enumeration          | <a href="https://drive.google.com/file/d/1-BJvZa_jdaazQMXfWQl7pZ7mO5-4dBFC/view?usp=drive_link">Network Scanning and Enumeration Lab</a>|
-|  | <a href="https://google.com">Detection Lab</a>|
+| Python Scripting Port Scanning | <a href="https://drive.google.com/file/d/1pwoOitX0C4B2YlPezQU90iLjvxUsKtB4/view?usp=drive_link">Port Scanning</a>|
 |          ||
 |      | |
 |                  | |
